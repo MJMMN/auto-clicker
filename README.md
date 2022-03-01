@@ -1,0 +1,2 @@
+# auto-clicker
+This application was created for my kids.  They wanted an auto-clicker to be used during their gaming, and we''re teaching them good computer practices to not download random executables from the internet.
